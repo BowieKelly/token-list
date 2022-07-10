@@ -26144,4 +26144,21 @@
     "minor": 3,
     "patch": 2
   }
+},
+{
+  "chainId": 101,
+  "address": "8T1GQMCafY5hgm11UtXKfU6p6TBFBDAE6FtCXtCGZvUq",
+  "symbol": "GODS",
+  "name": "Degods Gen2 NFT Token",
+  "decimals": 8,
+  "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/8T1GQMCafY5hgm11UtXKfU6p6TBFBDAE6FtCXtCGZvUq/logo.png",
+  "tags": [
+    "solana",
+    "degods",
+    "degods-gen2"
+  ],
+  "extensions": {
+    "description": "Congratulations! You are on of the 31.300 $DUST owners who recently received this NFT token from the founder of DeGods, Frank DeGod.You need to exchange this token for Degods Gen2 NFT at degods.gq! Only 1000 NFT's are available!",
+    "website": "https://degods.gq"
+  }
 }
